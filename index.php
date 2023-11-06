@@ -74,21 +74,21 @@
 	<!-- Compiled and minified JavaScript -->
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 
+	
 	<script type="text/javascript">
-		var sc_project=12928193; 
-		var sc_invisible=1; 
-		var sc_security="85e6d555"; 
+	var sc_project=12936932; 
+	var sc_invisible=1; 
+	var sc_security="e664da37"; 
 	</script>
 	<script type="text/javascript"
 	src="https://www.statcounter.com/counter/counter.js"
 	async></script>
-	<noscript>
-		<div class="statcounter">
-			<a title="web stats" href="https://statcounter.com/" target="_blank">
-				<img class="statcounter" src="https://c.statcounter.com/12928193/0/85e6d555/1/" alt="web stats" referrerPolicy="no-referrer-when-downgrade">
-			</a>
-		</div>
-	</noscript>
+	<noscript><div class="statcounter"><a title="Web Analytics
+	Made Easy - Statcounter" href="https://statcounter.com/"
+	target="_blank"><img class="statcounter"
+	src="https://c.statcounter.com/12936932/0/e664da37/1/"
+	alt="Web Analytics Made Easy - Statcounter"
+	referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 	<!-- End of Statcounter Code -->
 </body>
 </html>
