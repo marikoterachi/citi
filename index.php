@@ -1,4 +1,4 @@
-<?php if (isset($GET['referrer']) && $GET['referrer'] == 'platform'): ?>
+<?php if (isset($_GET['referrer']) && $_GET['referrer'] == 'platform'): ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
