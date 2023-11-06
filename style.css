@@ -1,0 +1,109 @@
+@font-face {
+	font-family: Interstate;
+/*	src: url(fonts/interstate-regular.woff);*/
+	src: url(fonts/interstate-regular.ttf);
+}
+
+@font-face {
+	font-family: Interstate Light;
+	src: url(fonts/interstate-light-regular.otf);
+}
+
+@font-face {
+	font-family: Interstate Bold;
+	src: url(fonts/interstate-bold.otf);
+}
+
+.interstate-light {
+	font-family: 'Interstate Light', sans-serif;
+}
+
+.interstate-bold {
+	font-family: 'Interstate Bold', sans-serif;
+}
+
+body {
+	font-family: 'Interstate', sans-serif;
+}
+
+.banner {
+	background-image: url('assets/banner.png');
+	height: 355px;
+	background-size: cover;
+	margin-top: -6px;
+}
+
+.btn, .btn-large, .btn-floating {
+	text-transform: none;
+	box-shadow: none !important;
+	font-family: 'Interstate', sans-serif;
+}
+
+.wide-btn {
+	width: 100%;
+}
+
+input[type='text'].custom-input {
+	border: 1px solid #bbb !important;
+	outline: none !important;
+	box-shadow: none !important;
+	background-color: #fff;
+	color: #056dae;
+	border-radius: 0.5rem;
+	padding-left: 20px;
+	width: calc(100% - 20px);
+	font-family: 'Interstate', sans-serif;
+}
+
+input[type='text'].custom-input::placeholder {
+	font-family: 'Interstate', sans-serif;
+	font-style: italic;
+	color: #9e9e9e;
+}
+
+input[type='password'].custom-input {
+	border: 1px solid #bbb !important;
+	outline: none !important;
+	box-shadow: none !important;
+	background-color: #fff;
+	color: #056dae;
+	border-radius: 0.5rem;
+	padding-left: 20px;
+	width: calc(100% - 20px);
+	font-family: 'Interstate', sans-serif;
+}
+
+input[type='password'].custom-input::placeholder {
+	font-family: 'Interstate', sans-serif;
+	font-style: italic;
+	color: #9e9e9e;
+}
+
+button.qr-code {
+	background-image: url("assets/qr-code.svg");
+	background-repeat: no-repeat;
+	background-position: 50px 8px;
+}
+
+.small-text {
+	font-size: 12px;
+}
+
+.primary-text {
+	color: #056dae !important;
+}
+
+.primary-bg {
+	background-color: #056dae !important;
+}
+
+.container-fluid {
+	padding: 0 7%;
+}
+
+p.error-text {
+	color: #d60000;
+	font-family: 'Interstate Bold', sans-serif;
+	font-size: 12px;
+	margin-top: 0;
+}
